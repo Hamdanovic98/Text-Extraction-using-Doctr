@@ -1,0 +1,7 @@
+pdf2image
+Pillow
+streamlit
+doctr
+pandas
+matplotlib
+transformers
